@@ -3,7 +3,7 @@ package cn.dev33.satoken.integrate.router;
 import java.util.Arrays;
 import java.util.Map;
 
-import javax.servlet.http.Cookie;
+import jakarta.servlet.http.Cookie;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

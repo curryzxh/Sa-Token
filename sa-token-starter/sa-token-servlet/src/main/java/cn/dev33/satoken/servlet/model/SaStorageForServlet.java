@@ -1,6 +1,6 @@
 package cn.dev33.satoken.servlet.model;
 
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 import cn.dev33.satoken.context.model.SaStorage;
 
